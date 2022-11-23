@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Marcelo Fonseca</h1>
-<h3 align="center">Um aluno do curso Analise e Desenvolvimento de Sistemas pela faculdade Senac-portão PR</br>
+<h3 align="center">Estudante  do curso Analise e Desenvolvimento de Sistemas pela faculdade Senac-portão PR</br>
 Buscando novos mundos e novos desafios..!!
 Bora estudar...</h3>
 
