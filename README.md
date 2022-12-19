@@ -1,4 +1,4 @@
-  ## Oi 👋,Sou Marcelo Fonseca
+  ## Oi 👋, Sou Marcelo Fonseca
 
 
 <h3 align="left">🔭 Hoje estou fazendo transição de carreira saindo da area de logistica, e caindo no mundo da tecnologia, 
