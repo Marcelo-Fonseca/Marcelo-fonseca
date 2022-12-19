@@ -3,7 +3,7 @@
 Buscando novos mundos e novos desafios..!!
 Bora estudar...</h3>
 
-<h3 align="left">🔭 Atualmente estou em busca de um Estagío para que eu possa estar colocando em pratica que estou aprendendo. </h3>
+<h3 align="left">🔭 Atualmente estou em busca novos desafios para que eu possa estar colocando em pratica que estou estudando. </h3>
 
 
 
