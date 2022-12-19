@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋,Sou Marcelo Fonseca</h1>
-<h3 align="center">Estudante  do curso Analise e Desenvolvimento de Sistemas pela faculdade Senac-portão PR</br>
+<!--<h3 align="center">Estudante  do curso Analise e Desenvolvimento de Sistemas pela faculdade Senac-portão PR</br>
 Buscando novos mundos e novos desafios..!!
-Bora estudar...</h3>
+Bora estudar...</h3>-->
 
 <h3 align="left">🔭 Hoje estou fazendo transição de carreira saindo da area de logistica, e caindo no mundo da tecnologia, 
  estou cursando  Analise e Desenvolvimento de Sistemas.<br>
