@@ -13,8 +13,8 @@ Bora estudar...</h3>-->
 <!--Marcadores -->
 <div align="center">
   <a href="https://github.com/Marcelo-Fonseca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Fonseca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Fonseca&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Fonseca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Fonseca&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
@@ -39,10 +39,9 @@ Bora estudar...</h3>-->
 
 
 
+<!--Animação snake-->
 
-
-![Snake animation](https://github/Marcelo-Fonseca/Marcelo-Fonseca/blob/output/github-contribution-grid-snake.svg
-<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelo-fonseca&show_icons=true&locale=en&layout=compact" alt="marcelo-fonseca" /></p>-->
+![Snake animation](https://github/Marcelo-Fonseca/Marcelo-Fonseca/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
