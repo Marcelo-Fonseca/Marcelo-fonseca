@@ -1,7 +1,5 @@
-<h1 align="center">Oi 👋,Sou Marcelo Fonseca</h1>
-<!--<h3 align="center">Estudante  do curso Analise e Desenvolvimento de Sistemas pela faculdade Senac-portão PR</br>
-Buscando novos mundos e novos desafios..!!
-Bora estudar...</h3>-->
+  ## Oi 👋,Sou Marcelo Fonseca
+
 
 <h3 align="left">🔭 Hoje estou fazendo transição de carreira saindo da area de logistica, e caindo no mundo da tecnologia, 
  estou cursando  Analise e Desenvolvimento de Sistemas.<br>
@@ -13,8 +11,8 @@ Bora estudar...</h3>-->
 <!--Marcadores -->
 <div align="center">
   <a href="https://github.com/Marcelo-Fonseca">
-  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Fonseca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Fonseca&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em%" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Fonseca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align=rigth height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Fonseca&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
