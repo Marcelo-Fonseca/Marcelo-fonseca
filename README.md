@@ -1,8 +1,8 @@
   ## Oi 👋, Sou Marcelo Fonseca
 
 
-<h3 align="left">🔭 Hoje estou fazendo transição de carreira saindo da area de logistica, e caindo no mundo da tecnologia, 
- estou cursando  Analise e Desenvolvimento de Sistemas.<br>
+<h3 align="left">🔭 Estou em transição de carreira saindo da area de logistica, e caindo no mundo da tecnologia, 
+ formado em Analise e Desenvolvimento de Sistemas.<br>
   Bora para novos desafios!! <br><br><Br> </h3>
 
 ##
