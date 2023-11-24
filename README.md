@@ -3,11 +3,11 @@
 
 <h3 align="left">🔭 Estou atualmente fazendo uma transição de carreira da logística
 para a área de tecnologia, com foco em Desenvolvimento Front-End.
-Me formei em Análise e Desenvolvimento de Sistemas desde 2023,
+Me formei em Análise e Desenvolvimento de Sistemas Dezembro 2022,
 minha experiência anterior é com logística e sempre correndo
 contra o tempo, mas minha grande paixão é a tecnologia e estou
 ansioso para novos desafios.<br>
-  Bora para novos desafios!! <br><br><Br> </h3>
+
 
 ##
 
