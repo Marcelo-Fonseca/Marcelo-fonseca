@@ -1,12 +1,7 @@
   ## Oi 👋, Sou Marcelo Fonseca
 
 
-<h3 align="left">🔭 Estou atualmente fazendo uma transição de carreira da logística
-para a área de tecnologia, com foco em Desenvolvimento Front-End.
-Me formei em Análise e Desenvolvimento de Sistemas Dezembro 2022,
-minha experiência anterior é com logística e sempre correndo
-contra o tempo, mas minha grande paixão é a tecnologia e estou
-ansioso para novos desafios.<br>
+<h3 align="left">🔭 Estou em transição de carreira da logística para a área de tecnologia. Sou formado em Análise e Desenvolvimento de Sistemas desde dezembro de 2022 e atualmente estou aprofundando meu conhecimento com um curso de desenvolvimento web no devQuest full stack, com foco em HTML, CSS, JavaScript, React e outras tecnologias essenciais. Durante minha graduação, adquiri experiência acadêmica com Java e C++. Tenho afinidade em trabalhar em equipe, facilidade em aprender e estou sempre motivado por novos desafios.<br>
 
 
 ##
