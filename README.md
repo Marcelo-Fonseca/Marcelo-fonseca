@@ -1,10 +1,18 @@
-  ## Oi 👋, Sou Marcelo Fonseca
+ # Oi, sou Marcelo Fonseca! 👋
 
+💻 **Desenvolvedor em Transição** | **Formado em Análise e Desenvolvimento de Sistemas**
 
-<h3 align="left">🔭 Estou em transição de carreira da logística para a área de tecnologia. Sou formado em Análise e Desenvolvimento de Sistemas desde dezembro de 2022 e atualmente estou aprofundando meu conhecimento com um curso de desenvolvimento web no devQuest full stack, com foco em HTML, CSS, JavaScript, React e outras tecnologias essenciais. Durante minha graduação, adquiri experiência acadêmica com Java e C++. Tenho afinidade em trabalhar em equipe, facilidade em aprender e estou sempre motivado por novos desafios.<br>
+🎯 Em transição de carreira da logística para a tecnologia, sou formado em **Análise e Desenvolvimento de Sistemas** (dez/2022) e estou me especializando em **Desenvolvimento Web Full Stack** no DevQuest, com foco em **HTML, CSS, JavaScript, React**, entre outras tecnologias essenciais.
 
+🚀 Com sólida experiência acadêmica em **Java** e **C++**, tenho paixão por resolver problemas, aprender continuamente e colaborar em equipe para criar soluções inovadoras.
 
-##
+🔧 **Tecnologias e Ferramentas**:
+- **Front-End**: HTML | CSS | JavaScript | React
+- **Back-End**: Java | Spring Boot
+- **Outras**: C++ | Git | Metodologias Ágeis
+
+🤝 Sempre motivado por novos desafios e oportunidades para crescer, busco colaborar em projetos que me permitam aplicar e expandir meu conhecimento técnico.
+
 
 
 <!--Marcadores -->
