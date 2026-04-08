@@ -44,7 +44,7 @@ Estou em busca da minha primeira oportunidade no mercado (estágio ou júnior) p
 
 Se você tiver alguma dica de estudo ou quiser trocar uma ideia sobre tecnologia, sinta-se à vontade para me chamar!
 
-- [LinkedIn]((https://www.linkedin.com/in/marcelodfonseca/))
+- [LinkedIn](https://www.linkedin.com/in/marcelodfonseca/)
 - [Instagram](https://instagram.com)
 
 ---
