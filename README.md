@@ -12,7 +12,7 @@ Sou um entusiasta da tecnologia que adora entender como as coisas funcionam por 
 
 Estou em busca da minha primeira oportunidade no mercado (estágio ou júnior) para aplicar o que aprendo na faculdade em projetos reais e colaborar com equipes experientes.
 
-- 🌱 No momento, estou focando em: **Lógica de Programação, Java com Spring Boot e React.**
+- 🌱 No momento, estou focando em: ** Java com Spring Boot e React.**
 - 📚 Estudo diário: Melhorando a organização do meu código e entendendo como criar APIs simples e funcionais.
 - 🤝 Gosto de aprender com outras pessoas e estou sempre aberto a feedbacks.
 
