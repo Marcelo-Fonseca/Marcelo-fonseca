@@ -3,7 +3,7 @@
 💻 Desenvolvedor Full Stack em evolução | Java + React  
 🎓 Engenharia de Software em andamento
 
-🚀 Focado em transformar ideias em sistemas reais, com interesse em desenvolvimento web, APIs e soluções SaaS escaláveis.
+🚀 Focado em transformar ideias em sistemas reais, com interesse em desenvolvimento web, APIs.
 
 ---
 
