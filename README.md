@@ -1,6 +1,7 @@
  # 👋 Olá, eu sou Marcelo Fonseca  
 
-💻 Desenvolvedor Full Stack | Estudante de Engenharia de Software  
+💻 Desenvolvedor Full Stack em evolução | Java + React  
+🎓 Engenharia de Software em andamento
 
 🚀 Focado em transformar ideias em sistemas reais, com interesse em desenvolvimento web, APIs e soluções SaaS escaláveis.
 
