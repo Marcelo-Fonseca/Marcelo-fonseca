@@ -1,50 +1,46 @@
 # 👋 Olá, eu sou Marcelo Fonseca  
 
-### 🎓 Estudante de Engenharia de Software | Java + React  
-📍 **Formado em Análise e Desenvolvimento de Sistemas (2022)**  
-🚀 Atualmente aprofundando meus conhecimentos em desenvolvimento Full Stack.
+### 🎓 Engenharia de Software | QA & Desenvolvimento Full Stack  
+📍 **Formado em ADS (2022)** | **Capacitação em QA (Prime Hero Academy)**  
+🚀 Atualmente estudando a integração entre desenvolvimento Java/React e testes automatizados.
 
 ---
 
 ## 🎯 Sobre mim  
 
-Sou um entusiasta da tecnologia que adora entender como as coisas funcionam por trás das telas. Após concluir minha primeira graduação em **ADS**, decidi ingressar em **Engenharia de Software** para fortalecer minha base teórica e prática.
+Sou graduado em **Análise e Desenvolvimento de Sistemas** e estou cursando minha segunda graduação em **Engenharia de Software**. Tenho um perfil que une o desenvolvimento de soluções com **Java e React** à garantia de qualidade através de **QA e testes automatizados**.
 
-Estou em busca da minha primeira oportunidade no mercado (estágio ou júnior) para aplicar o que aprendo na faculdade em projetos reais e colaborar com equipes experientes.
-
-- 🌱 No momento, estou focando em: ** Java com Spring Boot e React.**
-- 📚 Estudo diário: Melhorando a organização do meu código e entendendo como criar APIs simples e funcionais.
-- 🤝 Gosto de aprender com outras pessoas e estou sempre aberto a feedbacks.
+- 🌱 **No momento:** Focado em APIs com Java/Spring Boot e automação com Robot Framework.
+- 💡 **Diferencial:** Conhecimento na base do software (do código ao teste).
+- 🤝 **Objetivo:** Primeira oportunidade como QA Júnior ou Desenvolvedor Júnior/Estagiário.
 
 ---
 
-## 🛠️ Tecnologias que estou estudando e praticando
+## 🛠️ Tecnologias e Ferramentas  
 
-**Linguagens e Frameworks:**
-- **Back-end:** Java | Spring Boot (estudando)
-- **Front-end:** HTML | CSS | JavaScript | React (estudando)
-- **Banco de Dados:** MySQL | PostgreSQL
+**Qualidade & Testes:**
+- Robot Framework | Testes Manuais | Planejamento de Testes
+
+**Desenvolvimento:**
+- Java (Spring Boot) | JavaScript (React) | HTML & CSS
+- Banco de Dados: MySQL | PostgreSQL
 
 **Ferramentas:**
-- Git e GitHub (Versionamento de código)
-- VS Code | IntelliJ IDEA
+- Git | GitHub | Metodologias Ágeis
 
 ---
 
-## 📊 Minha Atividade no GitHub  
+## 📊 Estatísticas  
 
 <div align="center">
-  <img height="160em" src="https://vercel.app"/>
   <img height="160em" src="https://vercel.app"/>
 </div>
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Conecte-se comigo
 
-Se você tiver alguma dica de estudo ou quiser trocar uma ideia sobre tecnologia, sinta-se à vontade para me chamar!
-
-- [LinkedIn](https://www.linkedin.com/in/marcelodfonseca/)
+- [LinkedIn](https://linkedin.com)
 - [Instagram](https://instagram.com)
 
 ---
@@ -52,4 +48,3 @@ Se você tiver alguma dica de estudo ou quiser trocar uma ideia sobre tecnologia
 <div align="center">
   <img src="https://github.com" alt="Snake animation" />
 </div>
-
