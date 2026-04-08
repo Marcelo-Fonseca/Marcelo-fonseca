@@ -1,89 +1,60 @@
- # 👋 Olá, eu sou Marcelo Fonseca  
+# 👋 Olá, eu sou Marcelo Fonseca  
 
-💻 Desenvolvedor Full Stack em evolução | Java + React  
-🎓 Engenharia de Software em andamento
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcelo-Fonseca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Fonseca&layout=compact&langs_count=7&theme=dracula" height="170em" />
+</div>
 
-🚀 Focado em transformar ideias em sistemas reais, com interesse em desenvolvimento web, APIs.
+### 💻 Desenvolvedor Full Stack | Java + React  
+🎓 **Engenheiro de Software** em formação | Graduado em **Análise e Desenvolvimento de Sistemas** (2022)
 
 ---
 
 ## 🎯 Sobre mim  
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** (dez/2022) e atualmente curso **Engenharia de Software**.  
+Sou um desenvolvedor focado na construção de sistemas eficientes, organizados e escaláveis. Minha jornada é guiada pela transformação de ideias em soluções reais, com forte interesse em arquitetura de software e desenvolvimento de APIs robustas.
 
-Estou em constante evolução como desenvolvedor, com foco na construção de projetos práticos e soluções que geram valor real.
-
-Tenho experiência com desenvolvimento web e busco oportunidades para atuar criando sistemas eficientes, organizados e escaláveis.
+- 🚀 Atualmente focado em: **Spring Boot, React e Arquitetura SaaS**.
+- 🛠️ Experiência prática em: Desenvolvimento Web e Integração de Bancos de Dados.
+- 🌱 Buscando constantemente evoluir em: Boas práticas de código (Clean Code) e Padrões de Projeto.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas  
 
-- **Front-end:** HTML | CSS | JavaScript | React  
-- **Back-end:** Java | Spring Boot  
-- **Banco de Dados:** MySQL | PostgreSQL  
-- **Outros:** Git | GitHub | Metodologias Ágeis  
+<div align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</div>
 
 ---
 
-## 🚀 Projetos em Destaque  
-
-🔹 **Lista+** *(em desenvolvimento)*  
-Sistema para gerenciamento de listas de compras com cálculo automático de valores e organização inteligente de itens.  
-
-🔹 **Sistema de Pedidos Digital** *(em planejamento)*  
-Aplicação voltada para restaurantes, com pedidos automatizados e integração com cozinha.  
-
----
-
-## 📈 Atualmente focado em  
-
-- Desenvolvimento de APIs REST  
-- Arquitetura de Software  
-- Projetos SaaS  
-- Boas práticas de código  
-
----
-
-## 📊 Estatísticas  
+## 📈 Contribuições
 
 <div align="center">
-  <a href="https://github.com/Marcelo-Fonseca">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Fonseca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Fonseca&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github.com/Marcelo-Fonseca/Marcelo-Fonseca/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 📫 Conecte-se comigo
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/marcelo-douglas-fonseca/" target="_blank">
+    <img src="https://shields.io" />
+  </a>
+  <a href="https://www.instagram.com/marcelod_fonseca/" target="_blank">
+    <img src="https://shields.io" />
   </a>
 </div>
 
 ---
 
-## 📫 Contato  
+### 🧠 Tecnologias em Estudo e Evolução
 
-<div>
-<a href="https://www.linkedin.com/in/marcelo-douglas-fonseca/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://www.instagram.com/marcelod_fonseca/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-</div>
-
----
-
-## 🧠 Tecnologias em Estudo  
-
-<div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-</div>
-
----
-
-## 🐍 Contribuições  
-
-![Snake animation](https://github.com/Marcelo-Fonseca/Marcelo-Fonseca/blob/output/github-contribution-grid-snake.svg)
+`Spring Security` `Microservices` `Docker` `TypeScript` `Unit Testing`
