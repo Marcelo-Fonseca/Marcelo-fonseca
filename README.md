@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Marcelo Fonseca  
 
 ### 🎓 Estudante de Engenharia de Software | Java + React + QA
-📍 **Formado em Análise e Desenvolvimento de Sistemas (2022)**  
+📍 **Formado em ADS (2022)**  
 🚀 Atualmente aprofundando meus conhecimentos em Desenvolvimento e Qualidade de Software.
 
 ---
@@ -14,7 +14,7 @@ Trago comigo a maturidade de quem já vivenciou o mercado de trabalho e hoje bus
 
 - 🌱 **Foco atual:** Lógica de Programação, Java com Spring Boot e React.
 - 🧪 **Qualidade (QA):** Concluí o treinamento **Prime Hero Academy (Prime Control)**, focando em testes manuais e automação com Robot Framework.
-- 🤝 **Perfil:** Gosto de aprender com outras pessoas, sou organizado e focado em entregar soluções que funcionem de verdade.
+- 🤝 **Perfil:** Gosto de aprender com outras pessoas, sou organizado e focado em entregar soluções que funcionam de verdade.
 
 ---
 
