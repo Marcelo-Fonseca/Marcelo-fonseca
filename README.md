@@ -1,44 +1,51 @@
 # 👋 Olá, eu sou Marcelo Fonseca  
 
-### 🎓 Engenharia de Software | QA & Desenvolvimento Full Stack  
-📍 **Formado em ADS (2022)** | **Capacitação em QA (Prime Hero Academy)**  
-🚀 Atualmente estudando a integração entre desenvolvimento Java/React e testes automatizados.
+### 🎓 Estudante de Engenharia de Software | Java + React + QA
+📍 **Formado em Análise e Desenvolvimento de Sistemas (2022)**  
+🚀 Atualmente aprofundando meus conhecimentos em Desenvolvimento e Qualidade de Software.
 
 ---
 
 ## 🎯 Sobre mim  
 
-Sou graduado em **Análise e Desenvolvimento de Sistemas** e estou cursando minha segunda graduação em **Engenharia de Software**. Tenho um perfil que une o desenvolvimento de soluções com **Java e React** à garantia de qualidade através de **QA e testes automatizados**.
+Sou um entusiasta da tecnologia que adora entender como as coisas funcionam por trás das telas. Após concluir minha primeira graduação em **ADS**, decidi ingressar em **Engenharia de Software** para fortalecer minha base teórica e prática.
 
-- 🌱 **No momento:** Focado em APIs com Java/Spring Boot e automação com Robot Framework.
-- 💡 **Diferencial:** Conhecimento na base do software (do código ao teste).
-- 🤝 **Objetivo:** Primeira oportunidade como QA Júnior ou Desenvolvedor Júnior/Estagiário.
+Trago comigo a maturidade de quem já vivenciou o mercado de trabalho e hoje busca a primeira oportunidade na área tech (estágio ou júnior). Acredito que um bom código nasce junto com uma boa estratégia de testes.
+
+- 🌱 **Foco atual:** Lógica de Programação, Java com Spring Boot e React.
+- 🧪 **Qualidade (QA):** Concluí o treinamento **Prime Hero Academy (Prime Control)**, focando em testes manuais e automação com Robot Framework.
+- 🤝 **Perfil:** Gosto de aprender com outras pessoas, sou organizado e focado em entregar soluções que funcionem de verdade.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
-
-**Qualidade & Testes:**
-- Robot Framework | Testes Manuais | Planejamento de Testes
+## 🛠️ Tecnologias que estou estudando e praticando
 
 **Desenvolvimento:**
-- Java (Spring Boot) | JavaScript (React) | HTML & CSS
-- Banco de Dados: MySQL | PostgreSQL
+- **Back-end:** Java | Spring Boot (estudando)
+- **Front-end:** HTML | CSS | JavaScript | React (estudando)
+- **Banco de Dados:** MySQL | PostgreSQL
 
-**Ferramentas:**
-- Git | GitHub | Metodologias Ágeis
+**Qualidade & Ferramentas:**
+- **QA:** Robot Framework | Testes Manuais
+- **Versionamento:** Git e GitHub
+- **IDEs:** VS Code | IntelliJ IDEA
 
 ---
 
-## 📊 Estatísticas  
+## 📊 Minha Atividade no GitHub  
 
 <div align="center">
-  <img height="160em" src="https://vercel.app"/>
+  <a href="https://github.com">
+    <img height="160em" src="https://vercel.app"/>
+    <img height="160em" src="https://vercel.app"/>
+  </a>
 </div>
 
 ---
 
-## 📫 Conecte-se comigo
+## 📫 Vamos conversar?
+
+Se você tiver alguma dica de estudo ou quiser trocar uma ideia sobre tecnologia e QA, sinta-se à vontade para me chamar!
 
 - [LinkedIn](https://linkedin.com)
 - [Instagram](https://instagram.com)
@@ -46,5 +53,5 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas** e estou cursando minh
 ---
 
 <div align="center">
-  <img src="https://github.com" alt="Snake animation" />
+  <img src="https://github.com/Marcelo-Fonseca/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
