@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Marcelo Douglas Fonseca
 
-🎓 Graduado em Análise e Desenvolvimento de Sistemas(2022)  
+🎓 Graduado em Análise e Desenvolvimento de Sistemas (2022)  
 📚 Estudante de Engenharia de Software  
 💻 Focado em Java + React + Qualidade de Software (QA)  
 🚀 Em busca da primeira oportunidade como Desenvolvedor (Estágio ou Júnior), com foco em Java, React e QA  
@@ -13,10 +13,14 @@
 ## 🎯 Sobre mim
 
 Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso Engenharia de Software.  
-Estou em transição para a área de tecnologia, trazendo comigo responsabilidade, disciplina e experiência profissional de outras áreas.
+Atualmente em transição de carreira para a área de tecnologia, com foco em desenvolvimento back-end e qualidade de software.
 
-Atualmente, estudo diariamente para construir uma base sólida em desenvolvimento e qualidade de software.  
+Trago comigo responsabilidade, disciplina e experiência profissional de outras áreas.  
+Estudo diariamente para construir uma base sólida em desenvolvimento e qualidade de software.
+
 Acredito que **desenvolver bem e testar bem caminham juntos** para criar sistemas confiáveis e eficientes.
+
+🎯 Buscando minha primeira oportunidade para aplicar na prática tudo o que venho construindo diariamente.
 
 ---
 
@@ -43,13 +47,20 @@ Conhecimentos:
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 💻 Desenvolvimento
-- Back-end: Java | Spring Boot (em aprendizado)
-- Front-end: HTML | CSS | JavaScript | React (iniciante)
-- Banco de Dados: MySQL | PostgreSQL
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ⚙️ Ferramentas
-- Versionamento: Git | GitHub  
-- IDEs: VS Code | IntelliJ IDEA  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
@@ -66,36 +77,30 @@ Projeto desenvolvido durante bootcamp da DIO, utilizando Inteligência Artificia
 🎯 Objetivo:
 Explorar o uso de IA na criação de conteúdo digital e automação de processos.
 
-🔗 Link: (https://github.com/Marcelo-Fonseca/podcast-grimoo)
+🔗 https://github.com/Marcelo-Fonseca/podcast-grimoo
 
 ---
 
-### 💻 Projetos DIO (Bootcamp)
+### 💻 Projetos Práticos
 
-🔹 dio-desafio-github  
-Projeto prático aplicando versionamento com Git e GitHub  
+🔹 Sistema em desenvolvimento (Java + Spring Boot)  
+Aplicação focada em back-end com estrutura de API REST  
 
-🔹 (adicione aqui outro projeto mais completo seu)  
-Desenvolvimento de funcionalidades aplicando conceitos de programação  
+🔹 Aplicações com React (em evolução)  
+Projetos voltados para construção de interfaces modernas  
 
----
-
-### 📚 Projetos de Estudo
-
-🔹 aula_01  
-Exercícios de revisão em Java  
-
-🔹 comandosGit  
-Prática com comandos Git e GitHub  
-
-🔹 aulas-Adm-banco-de-dados  
-Exercícios de banco de dados  
+🔹 Projetos DIO (Bootcamp)  
+Desafios práticos aplicando versionamento, lógica e estrutura de código  
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelo-Fonseca&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Fonseca&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Marcelo-Fonseca&theme=radical)
 
 ---
 
