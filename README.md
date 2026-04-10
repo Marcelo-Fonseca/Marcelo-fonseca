@@ -47,8 +47,8 @@ Estou estudando diariamente para construir minha base técnica e entrar no merca
 
 Se você tiver alguma dica para quem está começando ou quiser trocar uma ideia, sinta-se à vontade!
 
-- [LinkedIn](https://linkedin.com)
-- [Instagram](https://instagram.com)
+- [LinkedIn](https://www.linkedin.com/in/marcelodfonseca/)
+
 
 ---
 
