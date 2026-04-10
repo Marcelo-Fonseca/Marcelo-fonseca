@@ -94,13 +94,14 @@ Desafios práticos aplicando versionamento, lógica e estrutura de código
 
 ---
 
-## 📊 GitHub Stats
 
-![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelo-Fonseca&show_icons=true&theme=radical)
+## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Fonseca&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Marcelo-Fonseca&show_icons=true&theme=tokyonight&locale=pt-br)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Marcelo-Fonseca&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Fonseca&layout=compact&theme=tokyonight&locale=pt-br)
+
+![Sequência de contribuições](https://streak-stats.demolab.com/?user=Marcelo-Fonseca&theme=tokyonight&locale=pt_BR)
 
 ---
 
