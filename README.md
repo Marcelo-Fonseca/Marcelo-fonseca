@@ -97,11 +97,11 @@ Desafios práticos aplicando versionamento, lógica e estrutura de código
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Marcelo-Fonseca&show_icons=true&theme=tokyonight)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Fonseca&layout=compact&theme=tokyonight)
-
 ![Sequência de contribuições](https://streak-stats.demolab.com/?user=Marcelo-Fonseca&theme=tokyonight&locale=pt_BR)
+## 📌 Meus Repositórios
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcelo-Fonseca&repo=podcast-grimoo)](https://github.com/Marcelo-Fonseca/podcast-grimoo)
+
 
 ---
 
