@@ -5,7 +5,7 @@
 💻 Focado em Java + React + Qualidade de Software (QA)  
 🚀 Em busca da primeira oportunidade como Desenvolvedor (Estágio ou Júnior), com foco em Java, React e QA  
 
-📍 Pinhais - PR  
+📍 Pinhais-PR 
 🔗 [LinkedIn](https://www.linkedin.com/in/marcelodfonseca)
 
 ---
