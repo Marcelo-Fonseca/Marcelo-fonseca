@@ -1,58 +1,110 @@
-# 👋 Olá, eu sou Marcelo Fonseca  
+# 👋 Olá, eu sou Marcelo Douglas Fonseca
 
-### 📚 Estudante de Engenharia de Software | Em Transição para TI
-📍 **Formado em ADS (2022)** | Focado em **Java, React e QA**
-🚀 Buscando minha **primeira oportunidade** como Estagiário ou Júnior.
+🎓 Graduado em Análise e Desenvolvimento de Sistemas  
+📚 Estudante de Engenharia de Software  
+💻 Focado em Java + React + Qualidade de Software (QA)  
+🚀 Em busca da primeira oportunidade como Desenvolvedor (Estágio ou Júnior), com foco em Java, React e QA  
 
----
-
-## 🎯 Sobre mim  
-
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Engenharia de Software**. Estou em um momento de transição de carreira, trazendo comigo a responsabilidade e a experiência de mercado de outras áreas para o mundo da tecnologia.
-
-Estou estudando diariamente para construir minha base técnica e entrar no mercado de TI. Acredito que aprender a desenvolver e aprender a testar (QA) caminham juntos para criar bons sistemas.
-
-- 🌱 **O que estou estudando:** Lógica de Programação, Java com Spring Boot e React.
-- 🧪 **Capacitação em QA:** Concluí o treinamento **Prime Hero Academy (Prime Control)**, onde aprendi fundamentos de testes e automação com Robot Framework.
-- 🤝 **Meu objetivo:** Entrar em um time onde eu possa aprender, crescer como profissional e aplicar meus estudos em projetos reais.
+📍 Pinhais - PR  
+🔗 [LinkedIn](https://www.linkedin.com/in/marcelodfonseca)
 
 ---
 
-## 🛠️ Tecnologias em Estudo e Prática
+## 🎯 Sobre mim
 
-**Desenvolvimento:**
-- **Back-end:** Java | Spring Boot (estudando)
-- **Front-end:** HTML | CSS | JavaScript | React (iniciante)
-- **Banco de Dados:** MySQL | PostgreSQL
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso Engenharia de Software.  
+Estou em transição para a área de tecnologia, trazendo comigo responsabilidade, disciplina e experiência profissional de outras áreas.
 
-**Qualidade & Ferramentas:**
-- **QA:** Robot Framework | Testes Manuais
-- **Versionamento:** Git e GitHub
-- **IDEs:** VS Code | IntelliJ IDEA
+Atualmente, estudo diariamente para construir uma base sólida em desenvolvimento e qualidade de software.  
+Acredito que **desenvolver bem e testar bem caminham juntos** para criar sistemas confiáveis e eficientes.
 
 ---
 
-## 📊 Atividade no GitHub  
+## 🌱 Em constante evolução
 
-<div align="center">
-  <a href="https://github.com">
-    <img height="160em" src="https://vercel.app"/>
-    <img height="160em" src="https://vercel.app"/>
-  </a>
-</div>
+- 📘 Lógica de Programação  
+- ☕ Java com Spring Boot  
+- ⚛️ React (front-end moderno)  
+- 🧪 Testes de Software (QA)
 
 ---
 
-## 📫 Vamos conversar?
+## 🧪 Qualidade de Software (QA)
 
-Se você tiver alguma dica para quem está começando ou quiser trocar uma ideia, sinta-se à vontade!
+🎓 Formação pela **Prime Hero Academy (Prime Control)**  
 
-- [LinkedIn](https://www.linkedin.com/in/marcelodfonseca/)
-
+Conhecimentos:
+- Testes Manuais  
+- Fundamentos de QA  
+- Automação de Testes com Robot Framework  
 
 ---
 
-<div align="center">
-  <img src="https://github.com/Marcelo-Fonseca/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+## 🛠️ Tecnologias e Ferramentas
 
+### 💻 Desenvolvimento
+- Back-end: Java | Spring Boot (em aprendizado)
+- Front-end: HTML | CSS | JavaScript | React (iniciante)
+- Banco de Dados: MySQL | PostgreSQL
+
+### ⚙️ Ferramentas
+- Versionamento: Git | GitHub  
+- IDEs: VS Code | IntelliJ IDEA  
+
+---
+
+## 📂 Projetos em destaque
+
+### 🤖 Podcast com IA (Projeto Principal)
+Projeto desenvolvido durante bootcamp da DIO, utilizando Inteligência Artificial para criação automatizada de conteúdo.
+
+💡 O que foi aplicado:
+- Engenharia de Prompt  
+- Criação de roteiro com IA  
+- Estruturação de conteúdo automatizado  
+
+🎯 Objetivo:
+Explorar o uso de IA na criação de conteúdo digital e automação de processos.
+
+🔗 Link: (coloque aqui o link do repositório)
+
+---
+
+### 💻 Projetos DIO (Bootcamp)
+
+🔹 dio-desafio-github  
+Projeto prático aplicando versionamento com Git e GitHub  
+
+🔹 (adicione aqui outro projeto mais completo seu)  
+Desenvolvimento de funcionalidades aplicando conceitos de programação  
+
+---
+
+### 📚 Projetos de Estudo
+
+🔹 aula_01  
+Exercícios de revisão em Java  
+
+🔹 comandosGit  
+Prática com comandos Git e GitHub  
+
+🔹 aulas-Adm-banco-de-dados  
+Exercícios de banco de dados  
+
+---
+
+## 📊 GitHub Stats
+
+![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelo-Fonseca&show_icons=true&theme=radical)
+
+---
+
+## 📫 Vamos nos conectar?
+
+Se você tiver dicas, oportunidades ou quiser trocar uma ideia sobre tecnologia, fique à vontade!
+
+🔗 [LinkedIn](https://www.linkedin.com/in/marcelodfonseca)
+
+---
+
+⭐ *"Construindo minha base hoje para entregar grandes soluções amanhã."*
