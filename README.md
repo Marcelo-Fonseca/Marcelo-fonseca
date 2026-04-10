@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Marcelo Douglas Fonseca
 
-🎓 Graduado em Análise e Desenvolvimento de Sistemas  
+🎓 Graduado em Análise e Desenvolvimento de Sistemas(2022)  
 📚 Estudante de Engenharia de Software  
 💻 Focado em Java + React + Qualidade de Software (QA)  
 🚀 Em busca da primeira oportunidade como Desenvolvedor (Estágio ou Júnior), com foco em Java, React e QA  
@@ -66,7 +66,7 @@ Projeto desenvolvido durante bootcamp da DIO, utilizando Inteligência Artificia
 🎯 Objetivo:
 Explorar o uso de IA na criação de conteúdo digital e automação de processos.
 
-🔗 Link: (coloque aqui o link do repositório)
+🔗 Link: (https://github.com/Marcelo-Fonseca/podcast-grimoo)
 
 ---
 
