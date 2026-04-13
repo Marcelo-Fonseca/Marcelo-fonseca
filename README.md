@@ -1,113 +1,80 @@
 # 👋 Olá, eu sou Marcelo Douglas Fonseca
 
+💻 Desenvolvedor Front-end em formação (React) com base em Qualidade de Software (QA)  
 🎓 Graduado em Análise e Desenvolvimento de Sistemas (2022)  
 📚 Estudante de Engenharia de Software  
-💻 Focado em Java + React + Qualidade de Software (QA)  
-🚀 Em busca da primeira oportunidade como Desenvolvedor (Estágio ou Júnior), com foco em Java, React e QA  
 
-📍 Pinhais-PR 
+📍 Pinhais - PR  
 🔗 [LinkedIn](https://www.linkedin.com/in/marcelodfonseca)
 
 ---
 
-## 🎯 Sobre mim
+## 🚀 Sobre mim
 
-Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso Engenharia de Software.  
-Atualmente em transição de carreira para a área de tecnologia, com foco em desenvolvimento back-end e qualidade de software.
+Estou em transição para a área de desenvolvimento, com foco em Front-end utilizando **JavaScript, HTML, CSS e React**.
 
-Trago comigo responsabilidade, disciplina e experiência profissional de outras áreas.  
-Estudo diariamente para construir uma base sólida em desenvolvimento e qualidade de software.
+Possuo conhecimentos em **Qualidade de Software (QA)**, incluindo testes manuais e automação com **Robot Framework**, o que me permite desenvolver aplicações com mais atenção à qualidade e boas práticas.
 
-Acredito que **desenvolver bem e testar bem caminham juntos** para criar sistemas confiáveis e eficientes.
+Busco evoluir através de projetos práticos, construindo aplicações funcionais e aplicando conceitos reais do desenvolvimento.
 
-🎯 Buscando minha primeira oportunidade para aplicar na prática tudo o que venho construindo diariamente.
-
----
-
-## 🌱 Em constante evolução
-
-- 📘 Lógica de Programação  
-- ☕ Java com Spring Boot  
-- ⚛️ React (front-end moderno)  
-- 🧪 Testes de Software (QA)
-
----
-
-## 🧪 Qualidade de Software (QA)
-
-🎓 Formação pela **Prime Hero Academy (Prime Control)**  
-
-Conhecimentos:
-- Testes Manuais  
-- Fundamentos de QA  
-- Automação de Testes com Robot Framework  
+🎯 Atualmente, procuro minha primeira oportunidade como **Desenvolvedor Front-end Júnior, Estagiário ou QA Júnior**.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 💻 Desenvolvimento
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Front-end
+- JavaScript
+- React
+- HTML5
+- CSS3
+
+### 🧪 Qualidade de Software
+- Testes Manuais
+- Fundamentos de QA
+- Robot Framework
 
 ### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- MySQL
+- PostgreSQL
 
 ### ⚙️ Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+- Git & GitHub
+- VS Code
+- IntelliJ
 
 ---
 
 ## 📂 Projetos em destaque
 
-### 🤖 Podcast com IA (Projeto Principal)
-Projeto desenvolvido durante bootcamp da DIO, utilizando Inteligência Artificial para criação automatizada de conteúdo.
+### 🧙‍♂️ Grimoo – Plataforma de Conteúdo com IA *(em evolução)*
+Projeto autoral que une tecnologia, criatividade e inteligência artificial para criar uma experiência educacional em formato de podcast narrativo.
 
-💡 O que foi aplicado:
-- Engenharia de Prompt  
-- Criação de roteiro com IA  
-- Estruturação de conteúdo automatizado  
+🔧 Tecnologias: React (em desenvolvimento), JavaScript, HTML, CSS  
+🤖 IA: ChatGPT, ElevenLabs, MidJourney  
 
-🎯 Objetivo:
-Explorar o uso de IA na criação de conteúdo digital e automação de processos.
+📌 Em desenvolvimento:
+- Interface web em React  
+- Player de áudio  
+- Listagem de episódios  
 
 🔗 https://github.com/Marcelo-Fonseca/podcast-grimoo
 
 ---
 
-### 💻 Projetos Práticos
+## 📈 Em evolução
 
-🔹 Sistema em desenvolvimento (Java + Spring Boot)  
-Aplicação focada em back-end com estrutura de API REST  
-
-🔹 Aplicações com React (em evolução)  
-Projetos voltados para construção de interfaces modernas  
-
-🔹 Projetos DIO (Bootcamp)  
-Desafios práticos aplicando versionamento, lógica e estrutura de código  
-
----
-
-
-## 📊 Estatísticas do GitHub
-
-![Sequência de contribuições](https://streak-stats.demolab.com/?user=Marcelo-Fonseca&theme=tokyonight&locale=pt_BR)
-## 📌 Meus Repositórios
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcelo-Fonseca&repo=podcast-grimoo)](https://github.com/Marcelo-Fonseca/podcast-grimoo)
-
+Atualmente focado em:
+- Construção de projetos em React  
+- Estruturação de aplicações front-end  
+- Boas práticas de desenvolvimento  
+- Integração entre desenvolvimento e testes  
 
 ---
 
 ## 📫 Vamos nos conectar?
 
-Se você tiver dicas, oportunidades ou quiser trocar uma ideia sobre tecnologia, fique à vontade!
+Se quiser trocar ideias sobre tecnologia, projetos ou oportunidades:
 
 🔗 [LinkedIn](https://www.linkedin.com/in/marcelodfonseca)
 
