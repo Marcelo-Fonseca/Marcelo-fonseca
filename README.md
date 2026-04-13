@@ -4,7 +4,7 @@
 🎓 Graduado em Análise e Desenvolvimento de Sistemas (2022)  
 📚 Estudante de Engenharia de Software  
 
-📍 Pinhais - PR  
+📍 Pinhais-PR  
 🔗 [LinkedIn](https://www.linkedin.com/in/marcelodfonseca)
 
 ---
